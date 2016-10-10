@@ -86,7 +86,7 @@ header {
     background-color: #f2f0e9;
     background-image: url("../img/bg-gradient-sand.png"), url("../img/bg-sand.png");
     background-repeat: repeat-x, repeat;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .navbar-default.navbar-style {
