@@ -571,6 +571,8 @@ footer .footer-col {
     transition: all .3s ease-in-out;
 }
 
+.navbar-default .navbar-toggle:active,
+.navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:hover {
     background-color: #424242;
 }
@@ -579,6 +581,8 @@ footer .footer-col {
     background-color: #424242;
 }
 
+.navbar-default .navbar-toggle:active .icon-bar,
+.navbar-default .navbar-toggle:focus .icon-bar,
 .navbar-default .navbar-toggle:hover .icon-bar {
     background-color: #ffffff;
 }
